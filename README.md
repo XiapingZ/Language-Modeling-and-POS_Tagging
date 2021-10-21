@@ -1,3 +1,3 @@
-# Language-Modeling-and-POS_Tagging
+# Language Modeling and Part of Speech Tagging
 
 Hi there!
